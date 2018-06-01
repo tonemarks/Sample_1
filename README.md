@@ -5,3 +5,4 @@
 - *Kanye West*
 - *Jay-z*
 - *Common* 
+- *Cardi B*
