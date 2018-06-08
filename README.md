@@ -4,5 +4,6 @@
 - *Drake*
 - *Kanye West*
 - *Jay-z*
-- *Common* 
+- *Common*  
 - *Cardi B*
+- *Rakim*
